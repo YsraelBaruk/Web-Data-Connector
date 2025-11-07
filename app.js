@@ -49,8 +49,8 @@
             
             // --- ATENÇÃO AQUI ---
             // Substitua pelas suas credenciais do Supabase
-            const SUPABASE_URL = "https://[SEU-PROJETO-ID].supabase.co";
-            const SUPABASE_KEY = "[SUA-CHAVE-ANON]"; 
+            const SUPABASE_URL = "https://aqawtumwlzcipsgfokyr.supabase.co";
+            const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFxYXd0dW13bHpjaXBzZ2Zva3lyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI0NjUzMDIsImV4cCI6MjA3ODA0MTMwMn0.XC9p-M9yt2xrdqD_QcJQ6PFTojOvSBLXNBfcsV2M0QM"; 
             
             // !!! IMPORTANTE: Substitua pelo nome real da sua tabela no Supabase
             const NOME_DA_TABELA = "[NOME_DA_SUA_TABELA_AQUI]"; 
